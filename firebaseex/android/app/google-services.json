@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1058782010795",
+    "project_id": "authex-37957",
+    "storage_bucket": "authex-37957.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058782010795:android:262504c01d1f400ffcc6ee",
+        "android_client_info": {
+          "package_name": "com.example.firebaseex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058782010795-5sfmmejr1hbfb2u7sis22m2atg5f2e9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0RNBCVJKa-ta5n7SH8RkVE3iS-8ouM70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058782010795-5sfmmejr1hbfb2u7sis22m2atg5f2e9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

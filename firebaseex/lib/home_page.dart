@@ -34,7 +34,7 @@ class _HomePageState extends State<HomePage> {
         crossAxisAlignment: CrossAxisAlignment.stretch,
         children: [
           Center(child: Text('Device Id - $deviceId')),
-          SizedBox(
+          const SizedBox(
             height: 10,
           ),
           Center(child: Text('Device Model - $deviceModel')),
